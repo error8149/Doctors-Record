@@ -1,0 +1,15 @@
+D:\Uni\6th sem\VP\Doctors record\bin\Release\Doctors record.exe.config
+D:\Uni\6th sem\VP\Doctors record\bin\Release\Doctors record.exe
+D:\Uni\6th sem\VP\Doctors record\bin\Release\Doctors record.pdb
+D:\Uni\6th sem\VP\Doctors record\obj\Release\Doctors record.csproj.AssemblyReference.cache
+D:\Uni\6th sem\VP\Doctors record\obj\Release\Doctors record.csproj.SuggestedBindingRedirects.cache
+D:\Uni\6th sem\VP\Doctors record\obj\Release\Doctors_record.Form1.resources
+D:\Uni\6th sem\VP\Doctors record\obj\Release\Doctors_record.Form2.resources
+D:\Uni\6th sem\VP\Doctors record\obj\Release\Doctors_record.Form3.resources
+D:\Uni\6th sem\VP\Doctors record\obj\Release\Doctors_record.Form4.resources
+D:\Uni\6th sem\VP\Doctors record\obj\Release\Doctors_record.Properties.Resources.resources
+D:\Uni\6th sem\VP\Doctors record\obj\Release\Doctors_record.UserControl1.resources
+D:\Uni\6th sem\VP\Doctors record\obj\Release\Doctors record.csproj.GenerateResource.cache
+D:\Uni\6th sem\VP\Doctors record\obj\Release\Doctors record.csproj.CoreCompileInputs.cache
+D:\Uni\6th sem\VP\Doctors record\obj\Release\Doctors record.exe
+D:\Uni\6th sem\VP\Doctors record\obj\Release\Doctors record.pdb

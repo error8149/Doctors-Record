@@ -1,0 +1,19 @@
+D:\Uni\6th sem\VP\Doctors record\bin\Debug\Doctors record.exe.config
+D:\Uni\6th sem\VP\Doctors record\bin\Debug\Doctors record.exe
+D:\Uni\6th sem\VP\Doctors record\bin\Debug\Doctors record.pdb
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors record.csproj.AssemblyReference.cache
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors record.csproj.SuggestedBindingRedirects.cache
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors_record.Form1.resources
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors_record.Form2.resources
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors_record.Form3.resources
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors_record.Form4.resources
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors_record.Properties.Resources.resources
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors_record.UserControl1.resources
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors record.csproj.GenerateResource.cache
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors record.csproj.CoreCompileInputs.cache
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors record.exe
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors record.pdb
+D:\Uni\6th sem\VP\Doctors record\bin\Debug\Doctors record.exe.manifest
+D:\Uni\6th sem\VP\Doctors record\bin\Debug\Doctors record.application
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors record.exe.manifest
+D:\Uni\6th sem\VP\Doctors record\obj\Debug\Doctors record.application
